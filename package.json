@@ -10,9 +10,17 @@
   },
   "dependencies": {
     "expo": "~47.0.8",
+    "expo-av": "~13.0.1",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-iframe": "^1.8.5",
+    "react-native": "0.70.5",
+    "react-native-vector-icons": "^9.2.0",
+    "react-native-video": "^5.2.1",
+    "react-native-video-player": "^0.14.0",
+    "react-native-webview": "^11.25.0",
+    "react-native-youtube-iframe": "^2.2.2",
+    "styled-components": "^5.3.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
